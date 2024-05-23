@@ -1,3 +1,18 @@
 ## Hi I'm Hande 👋🏻👩🏻‍💻
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin][Ad:https://www.linkedin.com/in/hande-%C3%A7av%C5%9Fi-zaim-b50829111/]
+Currently, I am a ...
+- (2021.09 ~ present) Ph.D ML/DL researcher at Eskişehir Osmangazi University.
+- (2023.05 ~ present) Data Analyst at Kodlasam.
+
+In the past, I was a ...
+
+- (2020.02 ~ 2021.01) Software Devoloper (C#.Net/MySQL) at Ericsson
+- (2019.09 ~ 2020.01) Web Developer (Front-end) at Sıradışı Digital Studio.
+- (2016.11 ~ 2018.11) IT Engineer (MySQL/php) at LAV.
+
+🧑🏻‍🎓 Msc Thesis: Evalution of penetration tests in popular operating systems and web application
+🧑🏻‍🎓 Ph.D Thesis: Anomaly Detection on Robotic Systems
+
+Linkedin profile: \social[linkedin][[www.linkedin.com/in/myname/](https://www.linkedin.com/in/hande-%C3%A7av%C5%9Fi-zaim-b50829111)]{Hande Çavşi Zaim}
+
+
