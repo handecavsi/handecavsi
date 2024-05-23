@@ -10,9 +10,12 @@ In the past, I was a ...
 - (2019.09 ~ 2020.01) Web Developer (Front-end) at Sıradışı Digital Studio.
 - (2016.11 ~ 2018.11) IT Engineer (MySQL/php) at LAV.
 
-🧑🏻‍🎓 Msc Thesis: Evalution of penetration tests in popular operating systems and web application
-🧑🏻‍🎓 Ph.D Thesis: Anomaly Detection on Robotic Systems
+## 🧑🏻‍🎓 Academic Background
+- **MSc Thesis:** Evaluation of penetration tests in popular operating systems and web applications  
+- **Ph.D Thesis:** Anomaly Detection on Robotic Systems  
 
-Linkedin profile: \social[linkedin][[www.linkedin.com/in/myname/](https://www.linkedin.com/in/hande-%C3%A7av%C5%9Fi-zaim-b50829111)]{Hande Çavşi Zaim}
+
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)` LinkedIn ikonunu ve `[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://[www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hande-%C3%A7av%C5%9Fi-zaim-b50829111/)) 
+
 
 
