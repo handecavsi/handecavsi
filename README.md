@@ -25,24 +25,6 @@ In the past, I was a ...
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30">
 </a>
 
-## PUBLICATIONS 	
-Journal Articles:
-•	Zaim A., Çavşi H. “Türkiye’deki Jeotermal Enerji Santrallerinin Durumu” Mühendis ve Makina Dergisi, Cilt 59, Sayı 691, s.45-58, 2018.
-•	Özdemir D., Çavşi Zaim H., “Investigation of Attack Types in Android Operation System”, Journal Scientific Reports-A, Number 46, s.34-58, 2021.
-•	Çavşi Zaim H., Yolaçan E.N., Gülbandılar E., “Detection of Fraud in Bank Payments Using Graph Mining and Machine Learning Algorithms” Dicle University Journal of Engineering, 2021.
-•	Çavşi Zaim H., Yilmaz Metin, Yolaçan E.N., “Design of Gender Recognition System using quantum-based
-deep learning”, Neural Computing and Applications, 2023.
-Conference Papers:
-•	Çavşi Zaim H., Yolaçan E.N., Yavanoğlu U., “Intelligent Attack Detection in ROS-based Systems”, 2023 IEEE International Conference on Big Data (BigData), 2023.
-Book Chapters:
-•	Çavşi Zaim H., Yilmaz M., Yolaçan E.N., “Quantum Deep Learning”, Yorumlanabilir ve Açıklanabilir Yapay
-Zeka ve Güncel Konular, Yapay Zeka ve Büyük Veri Kitap Serisi 4, Nobel Akademik Yayıncılık Eğitim
-Danışmanlık, 2022
-•	Çavşi Zaim H., Yolaçan E.N., “Artifical Intelligence Based Anomaly Detection Approaches in Robot
-Operating System(ROS)”, Yorumlanabilir ve Açıklanabilir Yapay Zeka ve Güncel Konular, Yapay Zeka ve
-Büyük Veri Kitap Serisi 4, Nobel Akademik Yayıncılık Eğitim Danışmanlık, 2022
-
-![image](https://github.com/handecavsi/handecavsi/assets/34586454/7057e6dd-1c94-43db-b130-771162b5d900)
 
 
 
