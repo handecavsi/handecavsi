@@ -14,8 +14,7 @@ In the past, I was a ...
 - **MSc Thesis:** Evaluation of penetration tests in popular operating systems and web applications  
 - **Ph.D Thesis:** Anomaly Detection on Robotic Systems  
 
-
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)` LinkedIn ikonunu ve `[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://[www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hande-%C3%A7av%C5%9Fi-zaim-b50829111/)) 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://[www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hande-%C3%A7av%C5%9Fi-zaim-b50829111/)) 
 
 
 
