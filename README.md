@@ -2,7 +2,8 @@
 
 Currently, I am a ...
 - (2021.09 ~ present) Ph.D ML/DL researcher at Eskişehir Osmangazi University.
-- (2023.05 ~ present) Data Analyst at Kodlasam.
+- (2023.05 ~ 2025.09) Data Analyst at Kodlasam.
+- (2025.09 ~ present) Academician at Eskişehir Osmangazi University.
 
 In the past, I was a ...
 
@@ -31,6 +32,7 @@ In the past, I was a ...
 
 - *Intelligent Attack Detection in ROS-based Systems*  [link](https://ieeexplore.ieee.org/abstract/document/10386583)
 - _Cite this: Çavşi Zaim H., Yolaçan E.N., Yavanoğlu U., “Intelligent Attack Detection in ROS-based Systems”, 2023 IEEE International Conference on Big Data (BigData), 2023._
+
 
 **Book Chapters**
 
