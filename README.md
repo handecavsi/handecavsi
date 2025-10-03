@@ -1,6 +1,7 @@
 ## Hi I'm Hande 👋🏻👩🏻‍💻
 
 Currently, I am a ...
+- (2025.09 ~ present) Lecturer at Eskişehir Osmangazi University
 - (2021.09 ~ present) Ph.D ML/DL researcher at Eskişehir Osmangazi University.
 - (2023.05 ~ 2025.09) Data Analyst at Kodlasam.
 - (2025.09 ~ present) Academician at Eskişehir Osmangazi University.
