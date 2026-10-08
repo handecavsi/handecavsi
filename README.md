@@ -1,10 +1,10 @@
 ## Hi I'm Hande 👋🏻👩🏻‍💻
 
 Currently, I am a ...
-- (2025.09 ~ present) Academician at Eskişehir Osmangazi University.
+- (2026.06 ~ Cont.) Academician at Kütahya Dumlupınar University.
 
 In the past, I was a ...
-
+- (2025.09 ~ 2026.06) Academician at Eskişehir Osmangazi University.
 - (2023.05 ~ 2025.09) Data Analyst at Kodlasam.
 - (2021.09 ~ 2025.10) Ph.D ML/DL researcher at Eskişehir Osmangazi University.
 - (2020.02 ~ 2021.01) Software Devoloper (C#.Net/MySQL) at Ericsson
