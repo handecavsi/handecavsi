@@ -40,6 +40,9 @@ In the past, I was a ...
 - *Intelligent Attack Detection in ROS-based Systems*  [link](https://ieeexplore.ieee.org/abstract/document/10386583)
 - _Cite this: Çavşi Zaim H., Yolaçan E.N., Yavanoğlu U., “Intelligent Attack Detection in ROS-based Systems”, 2023 IEEE International Conference on Big Data (BigData), 2023._
 
+- *Temporal Windowed & Internal Feature (TWIF) Transformer For Attack Detection in Robotics* [link](https://ieeexplore.ieee.org/abstract/document/11435963)
+- _Cite this: Yolaçan, E. N., & Zaim, H. Ç. (2026). Temporal Windowed & Internal Feature (TWIF) Transformer For Attack Detection in Robotics. IEEE Access._
+
 
 **Book Chapters**
 
