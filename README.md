@@ -28,10 +28,10 @@ In the past, I was a ...
 - *Design of Gender Recognition System using quantum-based deep learning* [link](https://link.springer.com/article/10.1007/s00521-023-09213-5)
 - _Cite this: Çavşi Zaim H., Yilmaz Metin, Yolaçan E.N., “Design of Gender Recognition System using quantum-based deep learning”, Neural Computing and Applications, 2023._
   
-- *FPE–Transformer: a feature positional Encoding-Based transformer model for attack detection*  link]([https://link.springer.com/article/10.1007/s00521-023-09213-5](https://www.mdpi.com/2076-3417/15/3/1252))
+- *FPE–Transformer: a feature positional Encoding-Based transformer model for attack detection*  [link]([https://link.springer.com/article/10.1007/s00521-023-09213-5](https://www.mdpi.com/2076-3417/15/3/1252))
 - _Cite this: Çavşi Zaim, H., & Yolacan, E. N. (2025). FPE–Transformer: a feature positional Encoding-Based transformer model for attack detection. Applied Sciences, 15(3), 1252._
 
-- *DCWM-LSTM: A novel attack detection framework for robotic arms*  link]([[https://link.springer.com/article/10.1007/s00521-023-09213-5](https://www.mdpi.com/2076-3417/15/3/1252)](https://ieeexplore.ieee.org/abstract/document/10855442))
+- *DCWM-LSTM: A novel attack detection framework for robotic arms*  [link]([[https://link.springer.com/article/10.1007/s00521-023-09213-5](https://www.mdpi.com/2076-3417/15/3/1252)](https://ieeexplore.ieee.org/abstract/document/10855442))
 - _Cite this: Yolaçan, E. N., & Zaim, H. Ç. (2025). DCWM-LSTM: A novel attack detection framework for robotic arms. IEEE Access, 13, 20547-20560._
 
 
