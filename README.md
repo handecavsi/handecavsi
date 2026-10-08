@@ -13,7 +13,7 @@ In the past, I was a ...
 
 ## 🧑🏻‍🎓 Academic Background
 - **MSc Thesis:** Evaluation of penetration tests in popular operating systems and web applications  
-- **Ph.D Thesis:** Attack Detection on Robotic Systems
+- **Ph.D Thesis:** Development of transformer based model for attack detection in robotic systems with cyber physical data fusion
 
 ## 📄 Publications
 
